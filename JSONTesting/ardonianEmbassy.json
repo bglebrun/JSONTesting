@@ -1,0 +1,162 @@
+{
+	"story" : "Prologue: Ardonian Embassy Siege",
+	"content" : [
+    {
+      "story": [
+        {
+          "frame": 1,
+          "speaker": "",
+          "text": "Five years earlier: December 18, 1988"
+        },
+        {
+          "frame": 2,
+          "speaker": "",
+          "text": "Two years ago, the Kingdom of Olrez declared independence against the People's Socialist Republic of Ardonia."
+        },
+        {
+          "frame": 2,
+          "speaker": "",
+          "text": "The Kingdom of Olrez has long had a ruler, the Crown Queen of Olrez descended from a long line of rulers dating back to the small nation's first history."
+        },
+        {
+          "frame": 2,
+          "speaker": "",
+          "text": "Under Ardonian rule though, she served only as a figurehead to the nation and to deliver the Ardonian state's will to her people."
+        },
+        {
+          "frame": 2,
+          "speaker": "",
+          "text": "But now in the wake of the transition to independence, our nation temporarily reverted to it's pre-Ardonian government, with the Queen of Olrez reinstated into emergency power."
+        },
+        {
+          "frame": 2,
+          "speaker": "",
+          "text": "But, there are a few that do not see any future in the new government and remain loyal to the failing Ardonian Republic."
+        },
+        {
+          "frame": 2,
+          "speaker": "",
+          "text": "At first they gave protest, but soon they started organizing, collectively meeting to incite unrest."
+        },
+        {
+          "frame": 2,
+          "speaker": "",
+          "text": "And as I soon saw, the unrest finally reached a tipping point."
+        },
+        {
+          "frame": 0,
+          "speaker": "General Merlin",
+          "text": "Right on time, isn't it?"
+        },
+        {
+          "frame": 0,
+          "speaker": "",
+          "text": "The general sat across from me in the command vehicle, eyeing a few schematics of the building on the warm overhead."
+        },
+        {
+          "frame": 0,
+          "speaker": "Commander Spiellman",
+          "text": "You knew this attack was coming?"
+        },
+        {
+          "frame": 0,
+          "speaker": "General Merlin",
+          "text": "Oh god no, If we did that entire site would've been under lockdown for the last 72 hours or so. Well maybe state intelligence knew about it but all silence as usual..."
+        },
+        {
+          "frame": 0,
+          "speaker": "General Merlin",
+          "text": "But I'm just saying, everyone was anticpating something like this. With the amount of tension in the air."
+        },
+        {
+          "frame": 0,
+          "speaker": "General Merlin",
+          "text": "A friend of mine on the Police Force is worried, the situation's become bad enough that she's arresting children for stealing bread."
+        },
+        {
+          "frame": 0,
+          "speaker": "Commander Spiellman",
+          "text": "I don't suppose it was the children who came up with the idea to steal bread."
+        },
+        {
+          "frame": 0,
+          "speaker": "General Merlin",
+          "text": "No, I suppose it wasn't. But uncertainty in the future is the only parent here, isn't it?"
+        },
+        {
+          "frame": 0,
+          "speaker": "Commander Spiellman",
+          "text": "I dont' blame them. Cash can't even be used to purchase food right now. It's all melted down copper and silver stones I've traded from the merchant shops."
+        },
+        {
+          "frame": 0,
+          "speaker": "General Merlin",
+          "text": "Dire times indeed. Hopefully the Queen meeting with the emissary from The Irean Nations will solve a few issues."
+        },
+        {
+          "frame": 0,
+          "speaker": "General Merlin",
+          "text": "By the way, don't sell your electronics."
+        },
+        {
+          "frame": 0,
+          "speaker": "Commander Spiellman",
+          "text": "Why's that?"
+        },
+        {
+          "frame": 0,
+          "speaker": "General Merlin",
+          "text": "The Queen just ordered the Lanthanum mines under emergency state ownership. The price of cameras, lighters and battery powered watches might just skyrocket in the coming month."
+        },
+        {
+          "frame": 0,
+          "speaker": "Commander Spiellman",
+          "text": "Lighters huh? Glad I use matches."
+        },
+        {
+          "frame": 0,
+          "speaker": "General Merlin",
+          "text": "However my boy, the time for philosophy has ended. Today we find out the first hand price of our independence."
+        },
+        {
+          "frame": 0,
+          "speaker": "General Merlin",
+          "text": "Pray, that we do not witness it paid in blood."
+        }
+      ],
+      "choice": {
+        "text": "",
+        "selectionA": ""
+      },
+      "storyKey": "0"
+    },
+    {
+      "story": [
+        {
+          "key": 0,
+          "speaker": "",
+          "text": ""
+        }
+      ],
+      "choice": {
+        "text": "",
+        "selectionA": ""
+      },
+      "storyKey": "1"
+    },
+    {
+      "story": [
+        {
+          "key": 0,
+          "speaker": "",
+          "text": ""
+        }
+      ],
+        "choice": {
+        "text": "",
+        "selectionA": ""
+      },
+      "storyKey": "2"
+    }
+	]
+}
