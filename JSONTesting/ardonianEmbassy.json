@@ -1,7 +1,10 @@
 {
-	"story" : "Prologue: Ardonian Embassy Siege",
-	"content" : [
+  "content": [
     {
+      "choice": {
+        "text": "",
+        "selectionA": ""
+      },
       "story": [
         {
           "frame": 1,
@@ -31,7 +34,7 @@
         {
           "frame": 2,
           "speaker": "",
-          "text": "But, there are a few that do not see any future in the new government and remain loyal to the failing Ardonian Republic."
+          "text": "There are a few that do not see any future in the new government and remain loyal to the failing Ardonian Republic."
         },
         {
           "frame": 2,
@@ -41,7 +44,7 @@
         {
           "frame": 2,
           "speaker": "",
-          "text": "And as I soon saw, the unrest finally reached a tipping point."
+          "text": "And ultimately, the unrest finally reached a tipping point."
         },
         {
           "frame": 0,
@@ -61,12 +64,12 @@
         {
           "frame": 0,
           "speaker": "General Merlin",
-          "text": "Oh god no, If we did that entire site would've been under lockdown for the last 72 hours or so. Well maybe state intelligence knew about it but all silence as usual..."
+          "text": "Oh god no, If we did that entire site would've been under lockdown for the last 72 hours or so. If we did, State Intelligence is silence as usual..."
         },
         {
           "frame": 0,
           "speaker": "General Merlin",
-          "text": "But I'm just saying, everyone was anticpating something like this. With the amount of tension in the air."
+          "text": "I think everyone was anticpating something like this. With the amount of tension in the air."
         },
         {
           "frame": 0,
@@ -76,7 +79,7 @@
         {
           "frame": 0,
           "speaker": "Commander Spiellman",
-          "text": "I don't suppose it was the children who came up with the idea to steal bread."
+          "text": "I don't suppose it was the children themselves who came up with the idea to steal bread."
         },
         {
           "frame": 0,
@@ -91,7 +94,7 @@
         {
           "frame": 0,
           "speaker": "General Merlin",
-          "text": "Dire times indeed. Hopefully the Queen meeting with the emissary from The Irean Nations will solve a few issues."
+          "text": "Dire times for all. Hopefully the Queen meeting with the emissary from The Irean Nations will solve a few issues."
         },
         {
           "frame": 0,
@@ -116,19 +119,15 @@
         {
           "frame": 0,
           "speaker": "General Merlin",
-          "text": "However my boy, the time for philosophy has ended. Today we find out the first hand price of our independence."
+          "text": "However, chit chat ends here. We've arrived."
         },
         {
           "frame": 0,
           "speaker": "General Merlin",
-          "text": "Pray, that we do not witness it paid in blood."
+          "text": "Today, I think we find out the first hand price of our independence. Pray, that we do not witness it paid in blood."
         }
       ],
-      "choice": {
-        "text": "",
-        "selectionA": ""
-      },
-      "storyKey": "0"
+      "storyKey": 0
     },
     {
       "story": [
@@ -142,7 +141,7 @@
         "text": "",
         "selectionA": ""
       },
-      "storyKey": "1"
+      "storyKey": 1
     },
     {
       "story": [
@@ -152,11 +151,12 @@
           "text": ""
         }
       ],
-        "choice": {
+      "choice": {
         "text": "",
         "selectionA": ""
       },
-      "storyKey": "2"
+      "storyKey": 2
     }
-	]
+  ],
+  "story": "Prologue: Ardonian Embassy Siege"
 }
