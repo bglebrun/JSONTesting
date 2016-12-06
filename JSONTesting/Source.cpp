@@ -33,7 +33,7 @@ int main()
 	if (!fin)
 	{
 		cout << "Bad shit happened, exiting" << endl;
-		return 22;
+		return 1;
 	}
 
 	fin >> j;
@@ -77,6 +77,8 @@ int main()
 			system("PAUSE");
 		}
 	}
+
+	fin.close();
 
 	return 0;
 
